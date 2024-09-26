@@ -1,11 +1,5 @@
 # task
 
-Owner: Shreyaan Seth
-
-Task 1: Create a FastAPI Endpoint to Interact with Gemini API
-
----
-
 ### Objective:
 
 - Build an endpoint in FastAPI that communicates with the Gemini API to fetch LLM-powered responses for a **specific use case**.
